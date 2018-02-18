@@ -1,0 +1,4 @@
+addInformacaoUsuarioTestData,login,senha,tipo,contato,mensagem,Duration(ms)
+"",julio0001,123456,phone,9876766666,Your contact has been added!,2875.0
+"",julio0001,123456,phone,4567866666,Your contact has been added!,2256.0
+"",julio0001,123456,email,test@teste,Your contact has been added!,2238.0
